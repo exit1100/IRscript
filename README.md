@@ -1,6 +1,6 @@
 # IRscript
-Windows Artifact(Live, Dead, etc) Collect <br>
-
+Collect Windows Artifact(Live, Dead, etc) <br>
+* 관리자 권한으로 실행 <br>
 
 사용방법 : [프로그램 경로] <br>
 ex) .\IRscript.bat <br>
